@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Salut 👋
+Je m'appelle Michel!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelCodeur&layout=compact)](https://github.com/esin87/github-readme-stats)
 
 Here are some ideas to get you started:
