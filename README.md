@@ -11,6 +11,8 @@ I'm Michel!
 
 [![Gmail Badge](https://img.shields.io/badge/-michelpathinvo-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michelpathinvo@gmail.com)](mailto:michelpathinvo@gmail.com)
 
+![Code Wars Badge](https://www.codewars.com/users/michelCodeur/badges/)
+
 Welcome to my profile! I'm a full-stack software engineer at General Assembly with graduation coming soon. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/michelapathinvo)!
 
 
