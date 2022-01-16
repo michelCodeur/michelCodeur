@@ -14,5 +14,3 @@ I'm Michel!
 Welcome to my profile! I'm a full-stack software engineer at General Assembly with graduation coming soon. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/michelapathinvo)!
 
 
-
- ### Need inspiration for your own README? Check out [How to Stand out on GitHub using Profile READMEs](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f)
