@@ -1,5 +1,4 @@
-Salut 👋
-I'm Michel!
+<h3 align=center>Salut 👋 <br/>I'm Michel!</h3>
 
 Welcome to my profile! I'm a full-stack software engineer at General Assembly with graduation coming soon. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/michelapathinvo)!
 
@@ -15,6 +14,6 @@ Welcome to my profile! I'm a full-stack software engineer at General Assembly wi
 
 [!Code Wars Badge](https://www.codewars.com/users/michelCodeur/badges/)
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=michelCodeur)
 
 
