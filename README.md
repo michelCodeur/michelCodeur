@@ -1,6 +1,6 @@
 <h3 align=center>Salut 👋 <br/>I'm Michel!</h3>
 
-Welcome to my profile! I'm a full-stack software engineer at General Assembly with graduation coming soon. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/michelapathinvo)!
+Welcome to my profile! I'm a full-stack web developer and vivid advocate for technology accessibility for everyone. I love sharing my knowledge with others through projects and my online presence. I also have passion for travel and city cycling.<br/> Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/michelapathinvo)!
 
 
 <h2 align="left">Languages and Tools: 🛠️</h2>
